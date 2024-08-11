@@ -45,13 +45,7 @@ python3 main.py
 
 You can customize the game by modifying the `main.py` file. Some options to explore:
 
-- **Game Speed**: Adjust the game speed by changing the `speed` variable.
-- **Screen Size**: Modify the screen width and height by changing the `width` and `height` variables.
-- **Colors**: Change the colors of the snake, food, and background.
-
-**You can also run the file `turtle_race.py`:**
-This is a demo turtle race where you can bet on a turtle by choosing from the color:
-[`red`, `green`, `blue`, `yellow`, `orange`, `purple`]
+- **Database**: You can add a database to store your password.
 
 ## Contributing
 
