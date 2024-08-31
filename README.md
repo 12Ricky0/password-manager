@@ -43,9 +43,10 @@ python3 main.py
 
 ## Customization
 
-You can customize the game by modifying the `main.py` file. Some options to explore:
+You can customize the game by modifying the `main.py` file. Some options to explore include:
 
 - **Database**: You can add a database to store your password.
+- **Note**: Remember to hash all password stored in the database
 
 ## Contributing
 
